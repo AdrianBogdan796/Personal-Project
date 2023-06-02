@@ -20,7 +20,10 @@ const SectionHeader = ({ theme, toggleTheme }) => {
       <Details>
         <ThisIs>THIS IS</ThisIs>
         <MyName>Adrian Bogdan </MyName>
-        <DescriptionHeader>Wstawić coś po angielsku.</DescriptionHeader>
+        <DescriptionHeader>
+          I am a beginning frontend developer, who is looking for a job. I want
+          to improve my skills in this profession.
+        </DescriptionHeader>
         <ButtonHireMe href={`mailto:${email}`} title={email}>
           <Envelope src={envelope} alt="" />
           Hire me
