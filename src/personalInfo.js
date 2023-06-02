@@ -19,9 +19,13 @@ export const personalInfo = [
       "CSS Grid",
       "Teamwork",
       "Error handling",
-      "Promises, Async/Await",
       "Git",
       "GitHub Pull Requests & Review",
     ],
+  },
+  {
+    title: "What i want to learn next",
+    icon: "🚀",
+    list: ["Promises, Async/Await", "Node.js", "Typescript"],
   },
 ];
