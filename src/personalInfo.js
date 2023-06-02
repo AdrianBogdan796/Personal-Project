@@ -24,9 +24,4 @@ export const personalInfo = [
       "GitHub Pull Requests & Review",
     ],
   },
-  {
-    title: "What i want to learn next",
-    icon: "🚀",
-    list: [""],
-  },
 ];
