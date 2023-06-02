@@ -18,8 +18,7 @@ const Footer = () => {
         <StyledEmail href={`mailto:${email}`}>{email}</StyledEmail>
         <StyledText>
           I am a person who wants to constantly develop. I want to associate my
-          future with programming. Feel free to contact me if you need support
-          in creating a website and a mobile application. 🤞🏽
+          future with programming. Feel free to contact me.
         </StyledText>
         <WrapperIcon>
           {socialMedia.map(({ name, link, Icon }) => (
