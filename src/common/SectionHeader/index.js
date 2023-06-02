@@ -21,7 +21,7 @@ const SectionHeader = ({ theme, toggleTheme }) => {
         <ThisIs>THIS IS</ThisIs>
         <MyName>Adrian Bogdan </MyName>
         <DescriptionHeader>
-          I am a beginning frontend developer, who is looking for a job. I want
+          I am a beginning Frontend Developer, who is looking for a job. I want
           to improve my skills in this profession.
         </DescriptionHeader>
         <ButtonHireMe href={`mailto:${email}`} title={email}>
