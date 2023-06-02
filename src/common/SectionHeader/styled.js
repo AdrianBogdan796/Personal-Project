@@ -15,8 +15,8 @@ export const WrapperHeader = styled.header`
 `;
 
 export const ImageHeader = styled.img`
-  width: 398px;
-  height: 398px;
+  width: 300px;
+  height: 360px;
   border-radius: 50%;
   padding: 5px;
 
