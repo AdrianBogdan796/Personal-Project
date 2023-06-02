@@ -22,8 +22,8 @@ export const ImageHeader = styled.img`
 
   @media (max-width: ${({ theme }) => theme.breakpoint.mobileMax}px) {
     width: 160px;
-    height: 160px;
-    margin-bottom: 13px;
+    height: 200px;
+    margin-bottom: 10px;
   }
 `;
 
