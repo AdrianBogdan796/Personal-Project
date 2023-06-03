@@ -27,7 +27,6 @@ const GitHubTile = ({ name, descriprion, gitUrl, demo }) => {
           </LinkWrapper>
         </LinksWrapper>
       )}
-      ;
       {gitUrl && (
         <LinksWrapper>
           <dt>Repo:</dt>
