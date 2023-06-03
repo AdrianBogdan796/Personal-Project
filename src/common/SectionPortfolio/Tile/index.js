@@ -7,7 +7,7 @@ import {
   Link,
 } from "./styled";
 
-const GitHubTile = ({ name, description, gitUrl, demo }) => {
+const GitHubTile = ({ name, descriprion, gitUrl, demo }) => {
   const formattedName = (name[0].toUpperCase() + name.substring(1)).replaceAll(
     "-",
     " "
@@ -16,7 +16,7 @@ const GitHubTile = ({ name, description, gitUrl, demo }) => {
   return (
     <WrapperTile title={`repository name: ${name}`}>
       <Title>{formattedName}</Title>
-      <Descriprion>{description}</Descriprion>
+      <Descriprion>{descriprion}</Descriprion>
       {demo && (
         <LinksWrapper>
           <dt>Demo:</dt>
@@ -27,6 +27,7 @@ const GitHubTile = ({ name, description, gitUrl, demo }) => {
           </LinkWrapper>
         </LinksWrapper>
       )}
+      ;
       {gitUrl && (
         <LinksWrapper>
           <dt>Repo:</dt>
