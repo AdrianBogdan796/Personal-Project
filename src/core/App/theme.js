@@ -75,7 +75,6 @@ export const lightTheme = {
     },
   },
   breakpoint,
-  fontSize,
 };
 
 export const darkTheme = {
@@ -129,7 +128,6 @@ export const darkTheme = {
     },
   },
   breakpoint,
-  fontSize,
 };
 
 export const boxShadow =

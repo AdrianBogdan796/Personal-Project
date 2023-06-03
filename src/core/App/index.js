@@ -1,7 +1,7 @@
 import SectionHeader from "../../common/Header/index.js";
 import SectionSkills from "../../common/Skills/index.js";
 import SectionPortfolio from "../../common/Portfolio/index.js";
-import Footer from "../../common/Footer/index.js";
+import Footer from "../../feature/Footer/index.js";
 import { AppContainer } from "../../common/Container/styled.js";
 import { GlobalStyles } from "./GlobalStyles.js";
 import { Normalize } from "styled-normalize";
