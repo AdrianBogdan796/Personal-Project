@@ -14,7 +14,7 @@ import {
   GitHubIcon,
   WrapperRepos,
 } from "./styled";
-import { github } from "../.././personalInfo";
+import { github } from "../../personalInfo";
 import Loading from "./Loading";
 import Error from "./Error";
 

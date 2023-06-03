@@ -1,5 +1,5 @@
 import styled, { css } from "styled-components";
-import { Subheader } from "../SectionSkills/SkillsInner/styled";
+import { Subheader } from "../Skills/SkillsInner/styled";
 import { ReactComponent as githubIcon } from "./github/github.svg";
 
 export const WrapperPortfolio = styled.section`

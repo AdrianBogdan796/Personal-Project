@@ -1,5 +1,5 @@
 import { useSelector } from "react-redux";
-import { selectIsDarkTheme } from "../../SectionHeader/ThemeSwitch/themeSlice";
+import { selectIsDarkTheme } from "../../Header/ThemeSwitch/themeSlice";
 import {
   Wrapper,
   ErrorIcon,
@@ -10,7 +10,7 @@ import {
 } from "./styled";
 import errorDark from "./errorDark.svg";
 import errorLight from "./errorLight.svg";
-import { github } from "../../.././personalInfo";
+import { github } from "../../../personalInfo";
 
 const Error = () => {
   const isDarkTheme = useSelector(selectIsDarkTheme);

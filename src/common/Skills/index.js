@@ -1,4 +1,4 @@
-import { personalInfo } from "../.././personalInfo";
+import { personalInfo } from "../../personalInfo";
 import SkillsInner from "./SkillsInner";
 
 const SectionSkills = () => {

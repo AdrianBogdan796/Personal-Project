@@ -1,6 +1,6 @@
 import { configureStore } from "@reduxjs/toolkit";
-import themeSlice from "../common/SectionHeader/ThemeSwitch/themeSlice";
-import githubSlice from "../common/SectionPortfolio/github/githubSlice";
+import themeSlice from "../common/Header/ThemeSwitch/themeSlice";
+import githubSlice from "../common/Portfolio/github/githubSlice";
 import createSagaMiddleware from "redux-saga";
 import rootSaga from "./rootSaga";
 

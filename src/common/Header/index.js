@@ -11,7 +11,7 @@ import {
 import SwitchTheme from "./ThemeSwitch/";
 import Image from "./images/20230530_175818.jpg";
 import envelope from "./images/envelope.svg";
-import { email } from "./../.././personalInfo";
+import { email } from "../../personalInfo";
 
 const SectionHeader = ({ theme, toggleTheme }) => {
   return (
