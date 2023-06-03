@@ -24,20 +24,6 @@ const breakpoint = {
   bigScreen: 1024,
 };
 
-const fontSize = {
-  XS: "12px",
-  S: "14px",
-  sM: "16px",
-  M: "17px",
-  lM: "18px",
-  sXL: "20px",
-  XL: "22px",
-  lXL: "24px",
-  sXXl: "30px",
-  XXL: "32px",
-  lXXL: "38px",
-};
-
 export const lightTheme = {
   elementColor: {
     site: {
