@@ -7,7 +7,7 @@ This is my "personal homepage" project where you can find information about me a
 
 ## :arrow_right: [DEMO](https://adrianbogdan796.github.io/Personal-Project/)
 
-![Zrzut ekranu 2023-06-03 145703](https://github.com/AdrianBogdan796/Personal-Project/assets/52881893/93702ae0-1d44-403c-a603-c2994b4ace85)
+![Zrzut ekranu 2023-06-03 151306](https://github.com/AdrianBogdan796/Personal-Project/assets/52881893/456a77a8-f024-46cf-a23a-df080457798a)
 
 ## Available Scripts
 
