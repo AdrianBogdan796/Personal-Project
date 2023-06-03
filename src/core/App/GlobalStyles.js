@@ -11,9 +11,12 @@ html {
 
 body {
     font-family: 'Inter', sans-serif;
-    margin: auto;
+    font-style: normal;
     word-break: break-word;
-    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    line-height:140%;
     background: ${({ theme }) => theme.elementColor.site.background};
     color: ${({ theme }) => theme.elementColor.site.text};
     transition: background 0.5s; 
