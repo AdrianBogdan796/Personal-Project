@@ -7,6 +7,8 @@ This is my "personal homepage" project where you can find information about me a
 
 ## :arrow_right: [DEMO](https://adrianbogdan796.github.io/Personal-Project/)
 
+https://i.postimg.cc/BZKv50tK/Zrzut-ekranu-2023-06-03-145703.png
+
 ## Available Scripts
 
 In the project directory, you can run:
