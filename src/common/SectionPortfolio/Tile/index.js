@@ -19,7 +19,7 @@ const GitHubTile = ({ name, descriprion, gitUrl, demo }) => {
       <Descriprion>{descriprion}</Descriprion>
       {demo && (
         <LinksWrapper>
-          <dt>Repo:</dt>
+          <dt>Demo:</dt>
           <LinkWrapper>
             <Link href={demo} target="_blank" rel="noreferrer">
               {demo}
